@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    fontawesome-rails-cdn (4.0.3)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fontawesome-rails-cdn!
